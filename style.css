@@ -26,7 +26,7 @@ body {
 .ekran {
     background-color: #212121;
     border: #212121 0.5em solid;
-    border-radius: 3em;
+    border-radius: 2em;
     position: absolute;
     left: 50%;
     top: 50%;
