@@ -36,12 +36,11 @@ body {
     display: grid;
     place-items: center;
     display: flex;
-    gap: 1em;
     justify-content: center;
 }
 
 
 p {
-    font-size: 50px;
+    font-size: 70px;
 }
 
